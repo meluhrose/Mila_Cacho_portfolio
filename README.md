@@ -49,4 +49,4 @@ npm run start
 
 Name: Mila Vasshus
 
-E-mail: meluhrosegamil.com
+E-mail: meluhrose@gmail.com
