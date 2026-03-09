@@ -28,7 +28,7 @@ Here, I have created a portfolio that showcases a bit about me and the latest pr
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/meluhrose/Portfolio-1.git
+git clone https://github.com/meluhrose/Mila_Cacho_portfolio.git
 ```
 
 2. Install the dependencies:
