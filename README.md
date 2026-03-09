@@ -1,8 +1,9 @@
 # 📝My Portfolio
 
-
-
 My portfolio that represents me and my process of being a front end development student. 
+
+<img width="625" height="750" alt="image" src="https://github.com/user-attachments/assets/b82ae5c2-fe0f-48ec-9fc6-1f48fc1b3de2" />
+
 
 ## Description
 
