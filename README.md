@@ -11,15 +11,11 @@ Here, I have created a portfolio that showcases a bit about me and the latest pr
 
 ## 🛠 Built With
 
--HTML
-
--CSS
-
--JavaScript
-
--VSCODE
-
--GITHUB
+- HTML
+- CSS
+- JavaScript
+- VSCODE
+- GITHUB
 
 ## Getting Started
 
