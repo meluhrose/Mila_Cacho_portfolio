@@ -1,0 +1,21 @@
+{
+  "name": "mila_cacho_portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio that represents me and my process of being a front end development student.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meluhrose/Mila_Cacho_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/meluhrose/Mila_Cacho_portfolio/issues"
+  },
+  "homepage": "https://github.com/meluhrose/Mila_Cacho_portfolio#readme"
+}
